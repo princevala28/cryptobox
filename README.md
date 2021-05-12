@@ -1,6 +1,7 @@
 # crypto_app
 
-A new Flutter application.
+My new Flutter application demo.
+This app was simply use to demonstrate adaptive UI. We have use CoinBase for fetching price listing.
 
 ## Getting Started
 
